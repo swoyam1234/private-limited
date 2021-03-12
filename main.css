@@ -1,0 +1,19 @@
+.navbar-brand img {width: 100px;}
+
+#teach{
+    font-size: small;
+    width: 30%;
+}
+#tryudemy{
+    font-size: small;
+}
+#learnmore{
+font-size: small;
+}
+#business{
+    font-size: small;
+    width: 30%;
+}
+.img-circle{
+   border-radius: 50%;
+}
